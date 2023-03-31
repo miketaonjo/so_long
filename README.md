@@ -9,12 +9,12 @@ Made with the school graphical library: the MiniLibX (developed internally and i
 
 We must create our own maps in .ber format and we can create our own sprites in .xpm format.
 
-Controls for movement and rotation are:
+Controls for movement :
 
 <code>W</code>: move forward<br>
 <code>S</code>: move backward<br>
-<code>A</code>: strafe left<br>
-<code>D</code>: strafe right<br>
+<code>A</code>: move left<br>
+<code>D</code>: move right<br>
 
 ## Usage
 
