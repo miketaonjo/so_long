@@ -19,5 +19,5 @@ Execution :
 
 ## Screenshots
 
-!(Preview.png)
-!(Preview2.png)
+![Gameplay Preview](Preview.png)
+![Movements count](Preview2.png)
