@@ -15,8 +15,6 @@ Controls for movement and rotation are:
 <code>S</code>: move backward<br>
 <code>A</code>: strafe left<br>
 <code>D</code>: strafe right<br>
-<code>←</code>: rotate left<br>
-<code>→</code>: rotate right<br>
 
 ## Usage
 
