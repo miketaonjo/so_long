@@ -18,7 +18,7 @@
 # include<stdlib.h>
 # include<mlx.h>
 # include<mlx_int.h>
-# include"libft/libft.h"
+# include"../libft/libft.h"
 
 typedef struct s_player
 {
