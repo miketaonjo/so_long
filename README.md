@@ -1,4 +1,4 @@
-# Project name : so_long
+# Project name : so_long /*Available only on Linux environment*/
 
 For this project, the assignment is : 
 
